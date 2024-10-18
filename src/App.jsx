@@ -23,7 +23,7 @@ function App() {
         <div className="text-section">
           <h1>Your Mind Deserves the Best Books</h1>
           <p>
-            Discover a world of knowledge with our curated selection of books. Whether you're into fiction or non-fiction, we've got something for everyone.
+            Discover a world of knowledge with our curated selection of books. Whether you&apos;re into fiction or non-fiction, we&apos;ve got something for everyone.
           </p>
           <div className="button-group">
             <button className="shop-now">Shop Now</button>
